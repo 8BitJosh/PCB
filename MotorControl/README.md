@@ -1,0 +1,1 @@
+Board designed to control the speed and driection of two motors from a 12V lead-acid battery
